@@ -1,4 +1,4 @@
-# Nguyen Viet Hung's Data Structure & Algorithms Learning Repository
+## Nguyen Viet Hung's Data Structure & Algorithms Learning Repository
 
 Welcome to my DSA learning repository! I am Nguyen Viet Hung, a developer specializing in Java and Typescript.
 
